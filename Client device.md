@@ -1,0 +1,1 @@
+A device not part of the [[Optical transport network]]
